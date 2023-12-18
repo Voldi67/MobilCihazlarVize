@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1080703645746",
+    "project_id": "kutuphaneapp3",
+    "storage_bucket": "kutuphaneapp3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080703645746:android:4bc6d1551a212b39da242b",
+        "android_client_info": {
+          "package_name": "com.example.kutuphane67"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx0_h4BzW0buYCmOpQsLnOTgkmBYnG8B4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080703645746:android:c7cefbda124ece5fda242b",
+        "android_client_info": {
+          "package_name": "com.example.kutuphaneuygulamasi"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAx0_h4BzW0buYCmOpQsLnOTgkmBYnG8B4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
